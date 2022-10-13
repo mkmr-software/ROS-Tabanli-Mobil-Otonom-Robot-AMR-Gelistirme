@@ -3,6 +3,7 @@
 
 MEKON 2021 - Uluslararası Katılımlı Mekatronik Öğrenci Konferansı, 25 Haziran 2021 
 
+![PDF](https://github.com/mkorkmz/ROS-Tabanli-Mobil-Otonom-Robot-AMR-Gelistirme/blob/main/MK_ROS_Tabanl%C4%B1_Mobil_Otonom_Robot_(AMR)_Geli%C5%9Ftirme_Journal_Article.pdf)
 
   ## Video
 Click image to link to YouTube video.  
